@@ -1,1 +1,7 @@
 streamlit
+ultralytics
+pillow
+numpy
+reportlab
+openai
+huggingface_hub
